@@ -1,4 +1,4 @@
-# nosql-challenge
+# Nosql Challenge
 
 ## Table of Contents
 - [About](#about)
@@ -13,9 +13,9 @@ The ratings were provided by the UK Food Standards Agency. I provided the result
 *Eat Safe, Love* , to help their journalists and food critics decide where to focus future articles.
 
 ## Tools
-PyMongo: Mongo Client
-Jupyter Notebook
-PANDAS
+- PyMongo: Mongo Client
+- Jupyter Notebook
+- PANDAS
 
 ## Key Steps
 #### **Database and Jupyter Notebook Set Up:**
