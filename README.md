@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [About](#about)
+- [Tools](#tools)
 - [Key Steps](#key-steps)
    - [Database and Jupyter Notebook Set Up](#database-and-jupyter-notebook-set-up)
    - [Database Updates](#database-updates)
