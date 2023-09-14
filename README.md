@@ -1,4 +1,4 @@
-# Nosql Challenge
+# Module 12: Nosql Challenge
 
 ## Table of Contents
 - [About](#about)
